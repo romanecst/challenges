@@ -79,6 +79,8 @@ $('#submit').click(
         $('#categorie').val('');
         $('#titre').val('');
         $('#date').val('');
+        del();
+        modify();
     }
 );
 
